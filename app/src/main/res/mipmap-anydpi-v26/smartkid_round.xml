@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/smartkid_background"/>
+    <foreground android:drawable="@mipmap/smartkid_foreground"/>
+    <monochrome android:drawable="@mipmap/smartkid_foreground"/>
+</adaptive-icon>
